@@ -6,9 +6,8 @@
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f9f9f9;">
 
-  <h1>🏥 Hospital Revenue Trend Analysis – SQL Aggregation (Task 6)</h1>
+  <h1>🏥 Hospital Revenue Trend Analysis – SQL Aggregation </h1>
 
-  <p>This project is part of my <strong>Data Analyst Internship (Task 6)</strong>, where I analyzed monthly hospital revenue and order volume using <strong>SQL aggregation functions</strong>.</p>
 
   <hr>
 
